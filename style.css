@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content :space-between;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size:2rem ;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+main{
+    display: flex;
+}
+button{
+    background-color: black;
+    color: white;
+}
